@@ -1,4 +1,4 @@
-# Museum Scoper - McDonough Model Database & City Tracker
+# Museum Planning Software - Museum Model Database & City Tracker
 
 **A complete system for targeting cities, tracking outreach, and managing museum planning projects.**
 
