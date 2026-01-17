@@ -1,0 +1,51 @@
+{
+  "name": "museum-scoper",
+  "version": "1.0.0",
+  "description": "McDonough Model Database & City Tracker - Desktop Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "build:mac": "electron-builder --mac",
+    "build:win": "electron-builder --win",
+    "build:linux": "electron-builder --linux"
+  },
+  "keywords": [
+    "museum",
+    "planning",
+    "CRM",
+    "database",
+    "electron"
+  ],
+  "author": "Mark Walhimer <mark@museumplanning.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0",
+    "electron-builder": "^24.9.1"
+  },
+  "build": {
+    "appId": "com.museumplanning.scoper",
+    "productName": "Museum Scoper",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "index.html",
+      "main.js",
+      "data/**/*",
+      "docs/**/*"
+    ],
+    "mac": {
+      "category": "public.app-category.business",
+      "icon": "icon.icns"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "icon.ico"
+    },
+    "linux": {
+      "target": "AppImage",
+      "category": "Office"
+    }
+  }
+}
