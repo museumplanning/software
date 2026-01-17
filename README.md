@@ -1,2 +1,0 @@
-# software
-Museum Planning Software
