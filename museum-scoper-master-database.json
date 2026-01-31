@@ -1,0 +1,2261 @@
+[
+  {
+    "project_id": "african-american-museum-exhibition-design",
+    "project_name": "African American Museum Exhibition Design",
+    "date_info": {
+      "date_created": "Unknown",
+      "date_delivered": "Unknown",
+      "date_added_to_database": "2026-01-17",
+      "last_updated": "2026-01-17"
+    },
+    "client": {
+      "name": "African American Museum",
+      "location": {
+        "city": "Unknown",
+        "state": "Unknown",
+        "country": "USA"
+      },
+      "type": "history_museum",
+      "size_sqft": null,
+      "annual_visitors": null,
+      "description": "Client had existing building needing major renovation"
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "title": "Unknown",
+        "authority_level": "unclear"
+      },
+      "red_flags": [
+        "unrealistic_budget",
+        "budget_scope_mismatch",
+        "ignored_reality"
+      ]
+    },
+    "client_screening": {
+      "client_qualified": false,
+      "screened_out": true,
+      "screened_out_reason": "Massive budget/scope mismatch - claimed $500K budget but building needed roof, HVAC, ADA compliance PLUS complete museum exhibits. Client ignored reality when told budget was insufficient.",
+      "red_flags_identified": [
+        "unrealistic_budget_expectations",
+        "scope_too_ambitious",
+        "ignored_professional_advice"
+      ]
+    },
+    "documents": [
+      {
+        "document_id": "african-american-museum-exhibition",
+        "document_type": "exhibition_design",
+        "file_path": "/home/claude/African-American-Museum-Exhibition-Design.pdf",
+        "page_count": 14,
+        "date_created": "Unknown"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "Complete exhibition design for indoor museum",
+      "project_scale": "single_building",
+      "indoor_outdoor": "indoor",
+      "space_description": {
+        "floors_levels": 2,
+        "description": "Upper and lower levels, existing building requiring major infrastructure work"
+      },
+      "focus_areas": [
+        "African American history",
+        "Civil rights",
+        "Great Migration",
+        "Media production",
+        "Maker space",
+        "Community events"
+      ],
+      "themes_topics": [
+        "MLK imagery",
+        "African diaspora",
+        "Great Migration",
+        "African American cultural history"
+      ]
+    },
+    "spatial_deliverables": {
+      "floor_plans": [
+        {
+          "level": "Upper level",
+          "page": null,
+          "shows": [
+            "Gallery spaces",
+            "Exhibition areas"
+          ]
+        },
+        {
+          "level": "Lower level",
+          "page": null,
+          "shows": [
+            "Support spaces",
+            "Program areas"
+          ]
+        }
+      ],
+      "renderings": [
+        {
+          "type": "3D_cutaway",
+          "space": "Overall building section",
+          "shows": "Spatial relationships between floors"
+        },
+        {
+          "type": "interior",
+          "space": "Main hall",
+          "shows": "MLK imagery, African diaspora maps, portrait towers"
+        },
+        {
+          "type": "interior",
+          "space": "The Great Migration exhibit",
+          "shows": "Historical narrative space"
+        },
+        {
+          "type": "interior",
+          "space": "Media Studio",
+          "shows": "Green screen, cameras, recording equipment"
+        },
+        {
+          "type": "interior",
+          "space": "Maker Space",
+          "shows": "3D printers, workstations"
+        },
+        {
+          "type": "interior",
+          "space": "Events Space",
+          "shows": "150-seat capacity"
+        }
+      ],
+      "total_renderings": "10+ interior renderings"
+    },
+    "exhibit_spaces": {
+      "zones": [
+        {
+          "zone_name": "Your Story Gallery",
+          "type": "exhibition",
+          "description": "Personal narrative space"
+        },
+        {
+          "zone_name": "Introduction Theater",
+          "type": "orientation",
+          "description": "Visitor welcome and orientation"
+        },
+        {
+          "zone_name": "History Lab",
+          "type": "interactive",
+          "description": "Hands-on historical exploration"
+        },
+        {
+          "zone_name": "Media Studio",
+          "type": "production",
+          "features": [
+            "Green screen",
+            "Cameras",
+            "Recording equipment"
+          ],
+          "description": "Video/audio production capability"
+        },
+        {
+          "zone_name": "Maker Space",
+          "type": "creative_technology",
+          "features": [
+            "3D printers",
+            "Workstations"
+          ],
+          "description": "Fabrication and creation space"
+        },
+        {
+          "zone_name": "Events Space",
+          "type": "multipurpose",
+          "size_seats": 150,
+          "description": "Community gatherings and programs"
+        },
+        {
+          "zone_name": "The Great Migration Exhibit",
+          "type": "exhibition",
+          "description": "Major historical narrative"
+        }
+      ],
+      "design_features": [
+        "Color-coded zones (orange/yellow/green/blue)",
+        "Backlit portrait towers",
+        "Large wall maps",
+        "Wood paneling with indirect cove lighting"
+      ]
+    },
+    "methodology": {
+      "includes_methodology": false,
+      "notes": "NO methodology, budget details, personas, research, timeline, or evaluation framework. Visual-focused exhibition design only."
+    },
+    "budget": {
+      "has_detailed_budget": false,
+      "total": 500000,
+      "currency": "USD",
+      "budget_realism_check": {
+        "scope_vs_budget": "unrealistic",
+        "red_flag": true,
+        "notes": "MAJOR RED FLAG: Client claimed $500K budget but building needed roof, HVAC, ADA compliance PLUS complete museum exhibits with media studio, maker space, events space. Budget completely insufficient for scope."
+      }
+    },
+    "project_financials": {
+      "your_bid_amount": 0,
+      "payment_received": 0,
+      "payment_status": "unpaid",
+      "strategic_value": "portfolio_piece",
+      "notes": "Pro bono work for portfolio despite client's unrealistic expectations"
+    },
+    "project_viability": {
+      "success_probability": "very_low",
+      "external_pressure": {
+        "has_external_pressure": false
+      },
+      "funding_status": {
+        "status": "unrealistic",
+        "amount_secured": 0,
+        "amount_needed": "Estimated $2M+ (building infrastructure + exhibits)",
+        "notes": "Client had $500K, needed $2M+"
+      }
+    },
+    "project_outcome": {
+      "status": "proposal_submitted_no_response",
+      "lifecycle_phase": "proposal",
+      "why_failed": [
+        "unrealistic_budget",
+        "massive_scope_budget_mismatch",
+        "client_ignored_reality",
+        "no_follow_up_despite_multiple_attempts"
+      ],
+      "lessons_learned": {
+        "what_didnt_work": [
+          "Client with building but insufficient budget for both infrastructure and exhibits",
+          "When budget is 1/4 of what's needed, project won't happen",
+          "Multiple follow-up attempts failed - client disappeared",
+          "Pro bono work doesn't guarantee client commitment"
+        ],
+        "budget_reality_check": "$500K claimed vs $2M+ needed (roof, HVAC, ADA, exhibits) = impossible"
+      }
+    },
+    "follow_up_strategy": {
+      "worth_following_up": false,
+      "notes": "Attempted multiple follow-ups, no response from client"
+    },
+    "public_presentation": {
+      "on_portfolio_website": true,
+      "strategic_value": "Portfolio piece demonstrating exhibition design capability",
+      "demonstrates": [
+        "Interior rendering quality",
+        "Space planning",
+        "Multi-level museum design",
+        "Media/maker space integration"
+      ]
+    },
+    "ai_training_quality": {
+      "complete_data": false,
+      "budget_extracted": true,
+      "outcome_verified": true,
+      "suitable_for_ml": true,
+      "confidence_score": 0.85,
+      "notes": "Good example of budget red flag pattern - massive scope/budget mismatch"
+    },
+    "tags": [
+      "exhibition_design",
+      "african_american_museum",
+      "history_museum",
+      "failed_project",
+      "budget_mismatch",
+      "pro_bono",
+      "portfolio_piece",
+      "media_studio",
+      "maker_space"
+    ],
+    "notes": "Pro bono portfolio piece that failed due to catastrophic budget/scope mismatch. Client had building needing major infrastructure work (roof, HVAC, ADA compliance) PLUS wanted complete museum with exhibits, media studio, maker space, events space for $500K. Realistic budget would have been $2M+. Client ignored reality when told, then disappeared despite multiple follow-up attempts. Excellent example of red flag: when client's budget is 1/4 of what's actually needed."
+  },
+  {
+    "project_id": "anrm-arizona-natural-resources-museum-2022",
+    "project_name": "Arizona Mining, Mineral, and Natural Resources Education Museum (AMMNREM)",
+    "date_info": {
+      "date_created": "2022-07-00",
+      "date_delivered": "2023-02-08",
+      "date_added_to_database": "2026-01-17",
+      "last_updated": "2026-01-17"
+    },
+    "client": {
+      "name": "University of Arizona",
+      "location": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "USA",
+        "address": "1502 West Washington Street, Phoenix, AZ 85007"
+      },
+      "type": "university",
+      "description": "Former Arizona Mining and Mineral Museum building (Polly Rosenbaum Building). $12M appropriated by Arizona Senate for building repairs."
+    },
+    "demographics": {
+      "city_population": 1680000,
+      "metro_area": "Phoenix metropolitan area (5th largest in US)",
+      "source": "conversation_context"
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "name": "Dr. Elliott Cheu",
+        "title": "Ph.D., Associate Vice President, University Research Institutes Research",
+        "role_type": "university_vp",
+        "authority_level": "final_decision",
+        "notes": "STRATEGIC CONTACT - dean with actual authority, not inexperienced ED"
+      },
+      "red_flags": [
+        "inexperienced_leadership",
+        "institutional_scandal"
+      ]
+    },
+    "client_screening": {
+      "client_qualified": true,
+      "if_qualified": {
+        "client_type": "university",
+        "decision_maker_type": "university_vp",
+        "funding_status": "appropriated"
+      }
+    },
+    "lead_source": {
+      "source_type": "rfp",
+      "if_rfp": {
+        "rfp_issuer": "Arizona Mining, Mineral, and Natural Resources Museum Advisory Committee",
+        "decision_to_pursue": "pursued"
+      }
+    },
+    "documents": [
+      {
+        "document_id": "anrm-final-museum-plan-2023",
+        "document_type": "master_plan",
+        "file_path": "/home/claude/ANRM-Final-Museum-Plan-2_8_2023.pdf",
+        "page_count": 68,
+        "date_delivered": "2023-02-08",
+        "phase": "planning"
+      },
+      {
+        "document_id": "anrm-project-scope-2022",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/AMMNRE Museum Project Scope - 2022 (1).docx",
+        "date_created": "2022-07",
+        "phase": "proposal",
+        "notes": "Project scope document - 4 phases, workshops, deliverables list"
+      },
+      {
+        "document_id": "anrm-budget-spreadsheet",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/Arizona Mining Mineral Natural Resources Museum.xlsx",
+        "date_created": "2022-10-14",
+        "phase": "proposal",
+        "notes": "Budget spreadsheet showing bidding strategy: $96K \u2192 $86K (20% discount) \u2192 $67K (strategic underbid)"
+      },
+      {
+        "document_id": "anrm-contract-2022",
+        "document_type": "other",
+        "file_path": "/tmp/document_pdf.pdf",
+        "date_created": "2022-08-18",
+        "phase": "proposal",
+        "notes": "Contract letter to Dr. Elliott Cheu confirming $67,180 fee"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "Master Plan / Museum Planning / Schematic Exhibition Design",
+      "project_scale": "facility_wide",
+      "space_description": {
+        "building_type": "Historic Polly Rosenbaum Building, former Arizona Mining and Mineral Museum",
+        "historic_designation": true,
+        "location_context": "Downtown Phoenix, adjacent to state capitol, near African American community",
+        "description": "1502 West Washington Street - historic building with $12M state appropriation for repairs"
+      },
+      "focus_areas": [
+        "Museum planning",
+        "Business planning",
+        "Schematic exhibition design",
+        "Audience assessment",
+        "Stakeholder engagement",
+        "Financial sustainability"
+      ]
+    },
+    "methodology": {
+      "includes_methodology": true,
+      "planning_framework": [
+        "4-phase workshop process",
+        "Stakeholder engagement",
+        "Audience testing",
+        "Business planning",
+        "Schematic design"
+      ],
+      "methodology_documented": {
+        "codified": true,
+        "transferable": true,
+        "personal_vs_systematic": "systematic"
+      }
+    },
+    "budget": {
+      "total": 12000000,
+      "notes": "$12M appropriated by Arizona Senate via State Bill 1415 for building repairs"
+    },
+    "project_financials": {
+      "your_bid_amount": 67180,
+      "actual_value_estimate": 130000,
+      "strategic_underbid": true,
+      "underbid_rationale": "BIDDING STRATEGY DOCUMENTED: Started at $96K \u2192 20% discount to $86K \u2192 Final strategic bid $67K to win competitive RFP and be 'least expensive bidder'",
+      "payment_received": 67180,
+      "payment_status": "paid_in_full",
+      "total_project_budget": 12000000,
+      "budget_realism": "realistic",
+      "cost_per_sqft": {
+        "calculated": false,
+        "confidence": "cannot_calculate"
+      },
+      "comparable_benchmarks": [
+        "Cranbrook Strategic Plan ($96K - similar scope without underbid)",
+        "McDonough Cultural Plan ($35K - smaller citywide scope)"
+      ],
+      "acquisition_method": "rfp",
+      "notes": "COMPLETE BIDDING DOCUMENTATION: Excel shows $96,300 original \u2192 $86,300 with 20% discount \u2192 Final contract $67,180. Strategic 30% underbid to win. Worth $130K+ but bid $67K to be least expensive and build university relationship."
+    },
+    "client_financial_profile": {
+      "proposed_budget": 12000000,
+      "budget_red_flag": false,
+      "pattern": "appropriate_budget",
+      "notes": "$12M appropriated via state legislation - strong funding. University has internal PDC Design/Build team for implementation."
+    },
+    "project_viability": {
+      "success_probability": "high",
+      "external_pressure": {
+        "has_external_pressure": true,
+        "pressure_types": [
+          "state_legislation"
+        ],
+        "description": "State Bill 1415 with $12M appropriation"
+      },
+      "funding_status": {
+        "status": "appropriated",
+        "source": "State Bill 1415",
+        "amount_secured": 12000000
+      }
+    },
+    "project_outcome": {
+      "status": "in_limbo",
+      "why_succeeded": [
+        "state_legislation",
+        "12m_appropriated",
+        "strategic_underbid_won_rfp"
+      ],
+      "why_failed": [
+        "university_400m_scandal"
+      ],
+      "lessons_learned": {
+        "what_worked": [
+          "Strategic underbid won competitive RFP ($67K vs $96K original)",
+          "State legislation = strongest external pressure",
+          "$12M appropriated = best funding status",
+          "Documentation shows professional bidding strategy"
+        ],
+        "what_didnt_work": [
+          "$400M university overspending scandal killed all projects",
+          "Even perfect funding can be destroyed by external scandal"
+        ]
+      }
+    },
+    "ai_training_quality": {
+      "complete_data": true,
+      "budget_extracted": true,
+      "confidence_score": 0.95,
+      "notes": "EXCELLENT: Complete bidding documentation shows $96K \u2192 $86K \u2192 $67K strategy. Contract letter, budget spreadsheet, scope document, final plan all present."
+    },
+    "tags": [
+      "master_plan",
+      "university",
+      "arizona",
+      "state_legislation",
+      "strategic_underbid",
+      "12m_appropriated",
+      "scandal_killed"
+    ]
+  },
+  {
+    "project_id": "anrm-arizona-natural-resources-museum-2023",
+    "project_name": "Arizona Natural Resources Museum (ANRM) Master Plan",
+    "date_info": {
+      "date_created": "2023-02-08",
+      "date_delivered": "2023-02-08",
+      "date_added_to_database": "2026-01-17"
+    },
+    "client": {
+      "name": "University of Arizona",
+      "location": {
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "USA",
+        "address": "1502 West Washington Street"
+      },
+      "type": "university",
+      "building_description": "Former Arizona Mining and Mineral Museum"
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "name": "Executive Director (African American woman, no museum/fundraising background)",
+        "title": "Executive Director",
+        "role_type": "executive_director",
+        "authority_level": "unclear",
+        "notes": "Inexperienced - no museum or fundraising background, hired by university"
+      },
+      "better_contact": {
+        "name": "Elliott Cheu",
+        "title": "Dean",
+        "role_type": "university_vp",
+        "authority_level": "final_decision",
+        "notes": "Strategic dean who actually makes decisions - better follow-up contact"
+      },
+      "red_flags": [
+        "inexperienced_leadership",
+        "institutional_scandal",
+        "scope_creep_attempts"
+      ]
+    },
+    "client_screening": {
+      "client_qualified": true,
+      "client_type": "university",
+      "decision_maker_type": "university_vp",
+      "notes": "Qualified client type (university) but project killed by institutional scandal"
+    },
+    "documents": [
+      {
+        "document_id": "anrm-master-plan-2023",
+        "document_type": "master_plan",
+        "file_path": "/home/claude/ANRM-Final-Museum-Plan-2_8_2023.pdf",
+        "page_count": 68,
+        "date_delivered": "2023-02-08"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "Master Plan / Facilities Planning",
+      "project_scale": "facility_wide",
+      "indoor_outdoor": "indoor",
+      "space_description": {
+        "building_type": "Historic former Mining and Mineral Museum",
+        "historic_designation": true,
+        "location_context": "Adjacent to African American community and downtown/state buildings"
+      },
+      "focus_areas": [
+        "Natural resources",
+        "Mining history (repurposed)",
+        "Environmental education",
+        "Community engagement"
+      ],
+      "target_audience": {
+        "demographics": [
+          "Downtown Phoenix community",
+          "African American community",
+          "State government visitors"
+        ]
+      }
+    },
+    "methodology": {
+      "includes_methodology": true,
+      "planning_framework": [
+        "Identity",
+        "Stewardship",
+        "Functionality"
+      ],
+      "approach_emphasis": "Financial sustainability, low capital costs, rapid implementation"
+    },
+    "spatial_deliverables": {
+      "floor_plans": [
+        {
+          "level": "Existing conditions",
+          "shows": [
+            "Current building layout"
+          ]
+        }
+      ]
+    },
+    "budget": {
+      "has_detailed_budget": true,
+      "total": 12000000,
+      "currency": "USD",
+      "notes": "Written into State Bill 1415 - $12M+ appropriated",
+      "pages": "Budget breakdown on pages 55+"
+    },
+    "timeline": {
+      "has_detailed_timeline": true,
+      "phases": [
+        {
+          "phase": "Building schedule",
+          "page": 56
+        },
+        {
+          "phase": "Exhibition schedule",
+          "page": 57
+        }
+      ]
+    },
+    "partner_organizations": [
+      {
+        "organization": "State of Arizona",
+        "type": "government",
+        "role": "Funding via State Bill 1415"
+      },
+      {
+        "organization": "African American community (downtown Phoenix)",
+        "type": "community",
+        "role": "Key stakeholder - building adjacent to community"
+      }
+    ],
+    "project_financials": {
+      "your_bid_amount": 67000,
+      "actual_value_estimate": 130000,
+      "strategic_underbid": true,
+      "underbid_rationale": "Strategic underbid to win competitive RFP, build university relationship, was least expensive bidder",
+      "payment_received": 67000,
+      "payment_status": "paid_in_full",
+      "acquisition_method": "rfp",
+      "notes": "Won competitive RFP despite being least expensive - work worth $130K+"
+    },
+    "project_viability": {
+      "success_probability": "high",
+      "external_pressure": {
+        "has_external_pressure": true,
+        "pressure_types": [
+          "state_legislation",
+          "university_mandate",
+          "community_pressure"
+        ],
+        "description": "State Bill 1415 appropriated $12M, State Representative Gail Griffin involved, community engagement documented"
+      },
+      "funding_status": {
+        "status": "appropriated",
+        "source": "State Bill 1415",
+        "amount_secured": 12000000,
+        "notes": "$12M written into state legislation"
+      },
+      "political_context": {
+        "political_champion": "State Representative Gail Griffin",
+        "political_agenda": "State Senator offered University $12M to reopen as mining museum, pivoted to Natural Resources after community pushback",
+        "community_alignment": "contested",
+        "cultural_sensitivity_issues": true,
+        "institutional_stability": "scandal",
+        "notes": "African American community didn't want mining museum. University $400M overspending scandal froze everything."
+      }
+    },
+    "project_outcome": {
+      "status": "in_limbo",
+      "lifecycle_phase": "approved_not_built",
+      "why_succeeded": [
+        "state_legislation_backing",
+        "state_bill_1415_appropriation",
+        "university_institutional_support",
+        "12m_appropriated",
+        "community_engagement",
+        "business_museum_community_support",
+        "historic_building_preservation",
+        "downtown_location",
+        "internal_design_build_team"
+      ],
+      "why_failed": [
+        "institutional_scandal",
+        "university_400m_overspending",
+        "inexperienced_ed",
+        "scope_creep_free_work_requests"
+      ],
+      "political_vulnerability": {
+        "vulnerable": true,
+        "vulnerability_score": 8,
+        "threats": [
+          "University $400M overspending scandal",
+          "All projects frozen",
+          "Inexperienced ED couldn't move forward",
+          "Scope creep requests for free consulting"
+        ]
+      },
+      "lessons_learned": {
+        "what_worked": [
+          "Competitive RFP won with strategic underbid",
+          "State legislation = strong external pressure",
+          "Documented community engagement",
+          "University internal capacity (design/build team)"
+        ],
+        "what_didnt_work": [
+          "University scandal can kill even well-funded projects",
+          "Inexperienced ED is major risk",
+          "Scope creep attempts post-contract"
+        ],
+        "would_do_differently": [
+          "Contact Elliott Cheu (strategic dean) not inexperienced ED for follow-up"
+        ]
+      }
+    },
+    "follow_up_strategy": {
+      "worth_following_up": true,
+      "primary_contact": {
+        "name": "Elliott Cheu",
+        "title": "Dean",
+        "why": "Strategic dean who actually makes decisions - avoid inexperienced ED who kept asking for free consulting"
+      },
+      "avoid_contacting": [
+        {
+          "name": "Executive Director",
+          "reason": "Inexperienced, no museum/fundraising background, scope creep requests for free work"
+        }
+      ]
+    },
+    "comparable_projects": [
+      {
+        "project_id": "flandrau-science-center-tucson",
+        "similarity": "Benchmarked against Flandrau Science Center Tucson in master plan"
+      }
+    ],
+    "public_presentation": {
+      "on_portfolio_website": false,
+      "notes": "In limbo due to university scandal"
+    },
+    "ai_training_quality": {
+      "complete_data": true,
+      "budget_extracted": true,
+      "outcome_verified": true,
+      "suitable_for_ml": true,
+      "confidence_score": 0.9,
+      "notes": "Excellent example of external pressure (state legislation) + institutional scandal kill shot"
+    },
+    "tags": [
+      "master_plan",
+      "university",
+      "natural_history",
+      "arizona",
+      "in_limbo",
+      "state_legislation",
+      "institutional_scandal",
+      "strategic_underbid",
+      "historic_building"
+    ],
+    "notes": "Had all success indicators: State Bill 1415 with $12M appropriation, State Representative involvement, University backing, community engagement, historic preservation angle. Mark strategically underbid ($67K for $130K+ value) to win competitive RFP. KILL SHOT: University $400M overspending scandal froze all projects. Inexperienced ED (no museum/fundraising background) couldn't move forward, kept asking Mark for free consulting. LESSON: Contact Elliott Cheu (strategic dean) for follow-up, not the inexperienced ED. Shows even well-funded, politically-backed projects can be killed by institutional crisis."
+  },
+  {
+    "project_id": "mcdonough-copolk-2016",
+    "project_name": "C.O. Polk Interactive Museum",
+    "date_info": {
+      "date_created": "2020",
+      "date_delivered": "2020",
+      "date_added_to_database": "2026-01-17"
+    },
+    "client": {
+      "name": "City of McDonough",
+      "location": {
+        "city": "McDonough",
+        "state": "Georgia",
+        "country": "USA",
+        "address": "McDonough Square, 34 John Frank Ward Blvd"
+      },
+      "type": "city_government",
+      "population": 30000
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "name": "City Manager",
+        "title": "City Manager",
+        "role_type": "city_manager",
+        "authority_level": "final_decision",
+        "notes": "BEST CLIENT TYPE - City Manager with mandate from Mayor/Council"
+      },
+      "political_champion": {
+        "name": "Mayor Billy Copeland",
+        "title": "Mayor",
+        "role": "Retiring after 50 years - wanted legacy museum",
+        "authority": "Handed to City Manager with 'just do it' mandate"
+      },
+      "decision_speed_indicator": {
+        "first_meeting_duration_minutes": 15,
+        "decision_timeline": "same_meeting",
+        "fast_decision": true,
+        "notes": "15-minute meeting with Mayor - pointed at rendering, said 'I want that', handshake, done"
+      }
+    },
+    "client_screening": {
+      "client_qualified": true,
+      "client_type": "city_government",
+      "decision_maker_type": "city_manager",
+      "authority_level": "final_decision",
+      "funding_status": "appropriated"
+    },
+    "documents": [
+      {
+        "document_id": "copolk-fabrication-2020",
+        "document_type": "fabrication_drawings",
+        "file_path": "/home/claude/CO Polk Interactive Museum Project PDF.pdf",
+        "page_count": 25,
+        "date_delivered": "2020",
+        "phase": "implementation",
+        "notes": "18x24 fabrication/approval drawings for exhibition graphics"
+      }
+    ],
+    "related_documents": [
+      {
+        "document_id": "mcdonough-cultural-plan-2025",
+        "document_type": "cultural_plan",
+        "relationship": "Museum reopening inspired citywide 5-year cultural master plan",
+        "expansion": true
+      },
+      {
+        "document_id": "mcdonough-funding-proposal-2025",
+        "document_type": "funding_proposal",
+        "relationship": "Operational sustainability request"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "Fabrication drawings for interactive museum exhibits",
+      "project_scale": "single_building",
+      "indoor_outdoor": "indoor",
+      "space_description": {
+        "building_type": "Historic 1941 US Post Office (WPA-era)",
+        "historic_designation": true,
+        "location_context": "McDonough Square, downtown",
+        "features": [
+          "WPA mural needing preservation",
+          "Leaking roof",
+          "Holes in floor"
+        ]
+      },
+      "focus_areas": [
+        "Local history",
+        "Interactive exhibits",
+        "STEAM education",
+        "Maker space",
+        "Kids programming"
+      ],
+      "target_audience": {
+        "age_range": "All ages, focus on families and kids",
+        "demographics": [
+          "McDonough residents",
+          "School groups"
+        ]
+      }
+    },
+    "exhibit_spaces": {
+      "zones": [
+        {
+          "zone_name": "Kid's Area",
+          "type": "interactive",
+          "age_range": "0-5 years",
+          "features": [
+            "No electronics to develop imaginations"
+          ],
+          "signage_pages": "Multiple"
+        },
+        {
+          "zone_name": "3D Printing Area",
+          "type": "maker_space",
+          "features": [
+            "Daily 3PM programs",
+            "Weekend 11AM/3PM",
+            "Summer camps"
+          ],
+          "technology": [
+            "3D printers"
+          ]
+        },
+        {
+          "zone_name": "Post Office Exhibit",
+          "type": "historical",
+          "features": [
+            "Mail sorting interactive",
+            "WPA mural preservation"
+          ]
+        }
+      ]
+    },
+    "exhibit_components": {
+      "interactive_elements": [
+        {
+          "component": "3D Printing Station",
+          "type": "maker_space",
+          "description": "Daily programming and summer camps"
+        },
+        {
+          "component": "Mail Sorting Interactive",
+          "type": "hands-on",
+          "description": "Post office historical experience"
+        },
+        {
+          "component": "Kids Area (ages 0-5)",
+          "type": "play",
+          "description": "No electronics - imagination development focus"
+        }
+      ],
+      "technology": [
+        {
+          "type": "3D Printers",
+          "description": "Maker space component for education"
+        }
+      ],
+      "educational_programming": {
+        "daily_programs": "3PM 3D printing",
+        "weekend_programs": "11AM and 3PM",
+        "summer_camps": "Yes",
+        "philosophy": "No electronics in Kid's Area to develop imaginations"
+      }
+    },
+    "budget": {
+      "total": null,
+      "notes": "Total project budget not specified in fabrication drawings"
+    },
+    "project_financials": {
+      "your_bid_amount": 300000,
+      "payment_received": 300000,
+      "payment_status": "paid_in_full",
+      "notes": "$300,000 across all phases (proposal \u2192 design \u2192 fabrication \u2192 implementation)",
+      "funding_context": "$1 BILLION in SPLOST funds available to city"
+    },
+    "project_viability": {
+      "success_probability": "very_high",
+      "external_pressure": {
+        "has_external_pressure": true,
+        "pressure_types": [
+          "politician_retiring",
+          "real_estate_deal",
+          "historic_preservation_mandate"
+        ],
+        "deadline_date": "Mayor retiring - legacy deadline",
+        "description": "Mayor Copeland retiring after 50 years wanted legacy museum. Post office had leaking roof, holes in floor, WPA mural needing preservation."
+      },
+      "funding_status": {
+        "status": "appropriated",
+        "source": "SPLOST (Special Purpose Local Option Sales Tax)",
+        "amount_secured": 1000000000,
+        "notes": "$1 BILLION in SPLOST funds available - money not an issue"
+      },
+      "political_context": {
+        "political_champion": "Mayor Billy Copeland (50 years in office, retiring)",
+        "political_agenda": "Legacy museum before retirement",
+        "community_alignment": "strong",
+        "institutional_stability": "stable"
+      },
+      "decision_speed": {
+        "meeting_duration": 15,
+        "timeline": "15-minute meeting, Mayor pointed at rendering, said 'I want that', handshake, done",
+        "fast_decision_signal": "Very strong - immediate yes"
+      }
+    },
+    "success_formula": {
+      "pattern": "Political deadline (retiring mayor) + Authority structure (City Manager with mandate) + Money already appropriated (SPLOST) + Real estate driver (historic WPA mural) + Fast decision (15-minute meeting, immediate yes) = PROJECT GETS BUILT",
+      "replicable": true
+    },
+    "project_outcome": {
+      "status": "built_then_threatened",
+      "lifecycle_phases": [
+        {
+          "phase": "proposal",
+          "date": "2016-03-15",
+          "outcome": "Won - 15 minute meeting with Mayor"
+        },
+        {
+          "phase": "built",
+          "date": "2020-01-15",
+          "outcome": "Museum opened successfully"
+        },
+        {
+          "phase": "operational",
+          "date": "2020-01-15",
+          "video_documentation": [
+            "vimeo.com/380859050 (museum tour)",
+            "vimeo.com/380854529 (McDonough history)",
+            "vimeo.com/380847599 (Jean Charlot WPA mural)"
+          ]
+        },
+        {
+          "phase": "threatened",
+          "date": "2020-03-15",
+          "reason": "COVID closed museum"
+        },
+        {
+          "phase": "political_threat",
+          "date": "2020-11",
+          "description": "New Mayor Sandra Vincent (Black) found museum 'racist' (vanity project for white retiring mayor in diverse community)",
+          "action": "Left closed 4 years"
+        },
+        {
+          "phase": "reopened",
+          "date": "2024",
+          "reason": "Election pressure - bad optics to keep closed. Mayor contacted Mark, he reopened most of museum within days",
+          "outcome": "Mayor lost reelection"
+        },
+        {
+          "phase": "in_limbo",
+          "date": "2024-present",
+          "status": "Closed again after mayor lost election"
+        },
+        {
+          "phase": "expansion",
+          "date": "2025-10-24",
+          "outcome": "Museum reopening inspired citywide Cultural Plan 2026-2031"
+        }
+      ],
+      "why_succeeded": [
+        "city_manager_client",
+        "mayor_retiring_deadline",
+        "splost_funding_appropriated",
+        "15_minute_decision",
+        "historic_preservation_mandate",
+        "real_estate_driver_wpa_mural",
+        "clear_authority_structure"
+      ],
+      "political_vulnerability": {
+        "vulnerable": true,
+        "vulnerability_score": 9,
+        "threats": [
+          "Cultural sensitivity - vanity project for white mayor in diverse community",
+          "Subject to election changes",
+          "New administration hostility"
+        ],
+        "mitigation_strategies": [
+          "Community programming focus",
+          "Educational value emphasis",
+          "Economic development narrative"
+        ]
+      },
+      "expansion_opportunity": {
+        "occurred": true,
+        "original_scope": "Single museum fabrication ($300K)",
+        "expanded_to": "Citywide cultural plan ($35K but worth $100K+)",
+        "expansion_value": 35000,
+        "timeline": "9 years later (2016 \u2192 2025)",
+        "catalyst": "Museum reopening success inspired Mayor Vincent to commission 5-year cultural master plan"
+      },
+      "lessons_learned": {
+        "what_worked": [
+          "City Manager as client = best decision maker type",
+          "15-minute meeting with fast yes = strong signal",
+          "SPLOST funding = money already there, not fundraising",
+          "Retiring politician = external deadline pressure",
+          "Historic building preservation = additional justification",
+          "Lead with renderings for fast-decision clients"
+        ],
+        "what_didnt_work": [
+          "Political vulnerability to new administration",
+          "Cultural sensitivity in diverse community",
+          "Museum as political legacy can become target"
+        ],
+        "replicable_model": "This is the McDonough Formula: Fast decision + Appropriated funding + Political deadline + City Manager authority = Success"
+      }
+    },
+    "follow_up_strategy": {
+      "worth_following_up": true,
+      "expansion_opportunities": [
+        "Citywide cultural plan (ACHIEVED 2025)",
+        "Heritage trails",
+        "Walking tours",
+        "Festival development",
+        "Artist programs"
+      ]
+    },
+    "comparable_projects": [
+      {
+        "project_id": "discovery-center",
+        "similarity": "Both outdoor/interactive components, STEAM focus",
+        "comparison_notes": "Discovery Center failed with Director of Development vs C.O. Polk succeeded with City Manager"
+      }
+    ],
+    "public_presentation": {
+      "on_portfolio_website": true,
+      "portfolio_url": "https://museumplanning.com/portfolio-item/c-o-polk-interactive-museum/",
+      "video_documentation": [
+        "vimeo.com/380859050",
+        "vimeo.com/380854529",
+        "vimeo.com/380847599"
+      ],
+      "marketed_as": "Built and operational (complexity of political situation not detailed)",
+      "demonstrates": [
+        "Interactive museum design",
+        "Maker space integration",
+        "Historic preservation",
+        "STEAM education programming"
+      ]
+    },
+    "ai_training_quality": {
+      "complete_data": true,
+      "budget_extracted": true,
+      "outcome_verified": true,
+      "suitable_for_ml": true,
+      "confidence_score": 1.0,
+      "notes": "PERFECT example of success formula - all data complete, video documentation, full lifecycle tracked"
+    },
+    "tags": [
+      "fabrication_drawings",
+      "interactive_museum",
+      "maker_space",
+      "steam_education",
+      "georgia",
+      "city_government",
+      "built_project",
+      "political_vulnerability",
+      "expansion_to_cultural_plan",
+      "fast_decision",
+      "city_manager_client",
+      "splost_funded",
+      "historic_preservation"
+    ],
+    "notes": "THE SUCCESS FORMULA PROJECT: Mayor retiring (50 years) = deadline pressure. Handed to City Manager = best client type. $1B SPLOST available = money not issue. 15-minute meeting, Mayor points at rendering 'I want that' = fast decision signal. Historic WPA mural = preservation mandate. Project built and opened 2020. COVID + new mayor (Sandra Vincent) closed it calling it 'racist' vanity project. Election pressure forced reopening 2024, Mark got it operational in days. Mayor lost reelection, museum closed again. BUT: Success of reopening inspired Mayor Vincent to commission citywide Cultural Plan 2026-2031 ($35K fee, worth $100K+). Museum project expanded to citywide cultural infrastructure planning. REPLICABLE MODEL."
+  },
+  {
+    "project_id": "cranbrook-institute-science-2027",
+    "project_name": "Cranbrook Institute of Science Strategic Plan 2027-2029",
+    "date_info": {
+      "date_created": "2025-11-13",
+      "date_delivered": "Proposal submitted November 13, 2025",
+      "date_added_to_database": "2026-01-17",
+      "last_updated": "2026-01-17"
+    },
+    "client": {
+      "name": "Cranbrook Institute of Science (part of Cranbrook Educational Community)",
+      "location": {
+        "city": "Bloomfield Hills",
+        "state": "Michigan",
+        "country": "USA",
+        "address": "39221 Woodward Avenue, Bloomfield Hills, MI 48304",
+        "metro_area": "Detroit metropolitan area"
+      },
+      "type": "science_museum",
+      "established_year": 1904,
+      "description": "Major science museum, part of Cranbrook Educational Community (CEC). Following nearly 3 decades of consistent leadership, entering pivotal new era under Lucy Hale, Susan Flint Cooper Director."
+    },
+    "demographics": {
+      "metro_area": "Detroit metropolitan area",
+      "source": "client_stated"
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "name": "Lucy Hale",
+        "title": "The Susan Flint Cooper Director",
+        "role_type": "executive_director",
+        "authority_level": "recommends",
+        "notes": "New director after 30 years of previous leadership - modernization opportunity"
+      },
+      "decision_speed_indicator": {
+        "first_meeting_duration_minutes": null,
+        "decision_timeline": "1_week",
+        "fast_decision": true,
+        "consensus_required": true,
+        "bureaucratic_layers": "moderate",
+        "notes": "RFP issued Nov 3, proposals due Nov 14, award by Nov 19, contract Nov 21 - VERY FAST 18-day cycle"
+      }
+    },
+    "client_screening": {
+      "client_qualified": true,
+      "if_qualified": {
+        "client_type": "science_museum",
+        "decision_maker_type": "executive_director",
+        "authority_level": "recommends",
+        "funding_status": "committed"
+      }
+    },
+    "lead_source": {
+      "source_type": "rfp",
+      "if_rfp": {
+        "rfp_issuer": "Cranbrook Institute of Science",
+        "rfp_deadline": "2025-11-14",
+        "attended_qa_session": false,
+        "scope_mismatch_discovered": false,
+        "stated_scope": "Strategic plan 2027-2029, in-person workshops, 3-year working plan by Sept 2026",
+        "actual_scope_discovered": "Matches stated scope - no mismatch",
+        "decision_to_pursue": "pursued",
+        "rfp_number": "RFP 2025-1103"
+      }
+    },
+    "documents": [
+      {
+        "document_id": "cranbrook-rfp-2025",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/2025 RFP CIS Strategic Planning Services.pdf",
+        "page_count": null,
+        "date_created": "2025-11-03",
+        "phase": "proposal",
+        "notes": "Official RFP issued Nov 3, 2025"
+      },
+      {
+        "document_id": "cranbrook-proposal-v2",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/Proposal \u2013 Strategic Planning Services for Cranbrook Institute of Science (2027\u20132029) v2.pdf",
+        "page_count": 12,
+        "date_created": "2025-11-13",
+        "phase": "proposal",
+        "notes": "Your submitted proposal - version 2"
+      },
+      {
+        "document_id": "cranbrook-budget-excel",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/Strategic_Plan_Budget.xlsx",
+        "date_created": "2025",
+        "phase": "proposal",
+        "notes": "Detailed budget spreadsheet - $92K version (final proposal was $96.2K)"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "3-year Strategic Plan (2027-2029) for major science museum",
+      "project_scale": "facility_wide",
+      "indoor_outdoor": "indoor",
+      "space_description": {
+        "building_type": "Science museum",
+        "description": "Cranbrook Institute of Science, part of Cranbrook Educational Community (CEC), modernization and expansion focus"
+      },
+      "focus_areas": [
+        "Strategic planning (2027-2029)",
+        "Director vision (Lucy Hale)",
+        "Departmental alignment",
+        "Board of Governors engagement",
+        "Marketing and audience engagement",
+        "Fundraising and donor development",
+        "Education and community impact - STEAM",
+        "Facilities modernization and visitor experience",
+        "Board and CEC Strategic Framework alignment",
+        "Capital campaign preparation",
+        "Endowment campaign preparation",
+        "Deferred maintenance funding",
+        "Environmental literacy"
+      ],
+      "target_audience": {
+        "demographics": [
+          "Science museum visitors",
+          "Detroit metro families",
+          "School groups",
+          "CEC community",
+          "STEAM education students"
+        ]
+      }
+    },
+    "methodology": {
+      "includes_methodology": true,
+      "planning_framework": [
+        "6-phase strategic planning process",
+        "Director Vision Sessions",
+        "Departmental Listening Sessions (5 focus areas)",
+        "Board & Stakeholder Workshop",
+        "Benchmarking & Environmental Scan",
+        "Strategy & Metrics Development",
+        "Implementation Readiness & Governance Alignment"
+      ],
+      "approach_emphasis": "Inclusive, measurable, forward-looking planning. Collaborative and data-driven. Translates vision into action.",
+      "methodology_documented": {
+        "codified": true,
+        "transferable": true,
+        "personal_vs_systematic": "systematic",
+        "framework_name": "6-Phase Strategic Planning Framework for Science Museums",
+        "replicable_by_others": true
+      }
+    },
+    "strategic_goals": {
+      "pillars": [
+        {
+          "name": "Marketing, Audience Engagement & Campus Relationships",
+          "description": "Expand regional reach and visitor experience"
+        },
+        {
+          "name": "Fundraising and Donor Development",
+          "description": "Capital and endowment campaign preparation"
+        },
+        {
+          "name": "Education and Community Impact",
+          "description": "STEAM education and environmental literacy leadership"
+        },
+        {
+          "name": "Facilities, Operations, and Visitor Experience",
+          "description": "Modernization and deferred maintenance"
+        },
+        {
+          "name": "Board and CEC Alignment",
+          "description": "Align with Cranbrook Educational Community Strategic Framework"
+        }
+      ],
+      "kpis": [
+        {
+          "metric": "Performance metrics and accountability systems",
+          "description": "Clear metrics for each strategic pillar"
+        },
+        {
+          "metric": "Visual evaluation dashboard",
+          "description": "Real-time progress tracking"
+        }
+      ],
+      "evaluation_dashboard": true
+    },
+    "timeline": {
+      "has_detailed_timeline": true,
+      "duration_months": 9,
+      "phases": [
+        {
+          "phase": "Phase 1: Director Vision Sessions",
+          "start_date": "January 2026",
+          "deliverables": [
+            "Director Vision Summary (10 pages with visuals)"
+          ]
+        },
+        {
+          "phase": "Phase 2: Departmental Listening Sessions",
+          "start_date": "January 2026",
+          "end_date": "February 2026",
+          "deliverables": [
+            "Departmental Findings Report across 5 focus areas",
+            "Staff Listening Sessions completed"
+          ]
+        },
+        {
+          "phase": "Phase 3: Board & Stakeholder Vision Workshop",
+          "end_date": "February 2026",
+          "deliverables": [
+            "Combined Director, Staff, Board Vision"
+          ]
+        },
+        {
+          "phase": "Phase 4: Benchmarking & Environmental Scan",
+          "end_date": "May 2026",
+          "deliverables": [
+            "Benchmark research",
+            "Environmental scan completed"
+          ]
+        },
+        {
+          "phase": "Phase 5: Strategy & Metrics Development",
+          "end_date": "June 2026",
+          "deliverables": [
+            "Draft Strategic Framework",
+            "KPIs and metrics"
+          ]
+        },
+        {
+          "phase": "Phase 6: Implementation Readiness",
+          "end_date": "September 2026",
+          "deliverables": [
+            "Final Strategic Plan",
+            "Implementation Framework",
+            "Optional annual review process"
+          ]
+        }
+      ]
+    },
+    "budget": {
+      "has_detailed_budget": true,
+      "total": 96200,
+      "currency": "USD",
+      "breakdown_by_category": [
+        {
+          "category": "Professional Services",
+          "amount": 96200,
+          "description": "Inclusive of travel and expenses"
+        }
+      ],
+      "budget_realism_check": {
+        "scope_vs_budget": "realistic",
+        "red_flag": false,
+        "notes": "$96,200 for comprehensive 9-month, 6-phase strategic plan with stakeholder engagement, benchmarking, Board workshops - appropriate for major science museum. Includes all travel."
+      }
+    },
+    "project_financials": {
+      "your_bid_amount": 96200,
+      "actual_value_estimate": 96200,
+      "strategic_underbid": false,
+      "payment_received": 0,
+      "payment_status": "pending",
+      "hourly_rate_used": 125,
+      "total_project_budget": 96200,
+      "budget_realism": "realistic",
+      "scope_vs_budget_mismatch": false,
+      "cost_per_sqft": {
+        "calculated": false,
+        "value": null,
+        "based_on": "Strategic planning, not construction - cost/sqft not applicable",
+        "confidence": "not_applicable"
+      },
+      "comparable_benchmarks": [
+        "McDonough Cultural Plan ($35K for citywide - smaller scope)",
+        "ANRM Master Plan ($67K fee - similar scope, strategic underbid)",
+        "Discovery Center Strategic Plan ($1M+ total project budget)"
+      ],
+      "acquisition_method": "rfp",
+      "strategic_value": "Major established science museum (1904) strategic planning demonstrates high-value capability with prestigious institutions",
+      "notes": "$96,200 proposal (final). Excel budget showed $92K. 2-payment structure: 50% at contract signing, 50% at completion. Contract Nov 21, 2025 if awarded."
+    },
+    "client_financial_profile": {
+      "total_assets": null,
+      "endowment": null,
+      "buildings_owned": 1,
+      "proposed_budget": 96200,
+      "budget_red_flag": false,
+      "pattern": "appropriate_budget",
+      "pre_proposal_negotiation": {
+        "negotiated_down_before_proposal": false,
+        "red_flag_severity": "none"
+      },
+      "notes": "Cranbrook Educational Community - prestigious, well-established (1904). Planning capital and endowment campaign, deferred maintenance funding. Strong financial position indicated."
+    },
+    "project_viability": {
+      "success_probability": "high",
+      "external_pressure": {
+        "has_external_pressure": true,
+        "pressure_types": [
+          "new_director_transition",
+          "30_years_leadership_change",
+          "modernization_imperative",
+          "capital_campaign_preparation",
+          "board_mandate"
+        ],
+        "deadline_date": "September 2026",
+        "description": "New director (Lucy Hale) after 30 years of previous leadership = unique modernization opportunity. Board-driven strategic planning for 2027-2029. Capital campaign preparation creates urgency."
+      },
+      "funding_status": {
+        "status": "committed",
+        "source": "Museum operating budget / strategic planning allocation",
+        "amount_secured": 96200,
+        "notes": "RFP with 18-day turnaround (Nov 3 \u2192 Nov 21) indicates budget already committed and Board approval secured"
+      },
+      "political_context": {
+        "political_champion": "Lucy Hale (new director) + Board of Governors",
+        "political_agenda": "Modernization after 30 years, capital campaign, facilities improvement, CEC alignment",
+        "community_alignment": "strong",
+        "institutional_stability": "stable",
+        "notes": "Leadership transition = opportunity. Fast RFP timeline = Board alignment and commitment. Aligning with CEC Strategic Framework."
+      },
+      "decision_speed": {
+        "meeting_duration": null,
+        "timeline": "18-day RFP cycle (Nov 3 issue \u2192 Nov 21 contract)",
+        "fast_decision_signal": "VERY STRONG - fastest RFP cycle in database (18 days total). Indicates urgency, commitment, Board pre-approval."
+      }
+    },
+    "workforce_development_project": {
+      "is_workforce_development": false,
+      "notes": "Strategic planning for established science museum. STEAM education focus but not workforce development per se."
+    },
+    "educational_integration": {
+      "required_for_success": true,
+      "school_district_partnership": null,
+      "curriculum_alignment": true,
+      "steam_focus": true,
+      "age_groups": [
+        "K-12",
+        "families"
+      ],
+      "notes": "STEAM education and environmental literacy are core strategic focus areas"
+    },
+    "project_outcome": {
+      "status": "proposal_submitted_no_response",
+      "lifecycle_phase": "proposal",
+      "why_succeeded": [
+        "fast_rfp_turnaround_18_days",
+        "new_director_momentum",
+        "board_commitment_evident",
+        "capital_campaign_catalyst",
+        "prestigious_client_cranbrook",
+        "clear_scope_alignment"
+      ],
+      "lessons_learned": {
+        "what_worked": [
+          "18-day RFP cycle = strong success signal (fastest in database)",
+          "New director transition = modernization opportunity",
+          "Capital campaign preparation = external forcing function",
+          "Clear RFP scope = no scope creep risk",
+          "Prestigious institution = portfolio value"
+        ],
+        "notes": "Proposal stage - outcome pending Nov 19, 2025 decision"
+      }
+    },
+    "comparable_projects": [
+      {
+        "project_id": "discovery-center",
+        "similarity": "Strategic plan for existing museum",
+        "comparison_notes": "Discovery Center failed with Director of Development. Cranbrook has Executive Director with Board backing."
+      },
+      {
+        "project_id": "anrm-arizona",
+        "similarity": "University-affiliated museum strategic planning",
+        "comparison_notes": "ANRM was $67K (underbid), had $12M appropriated. Cranbrook is $96K for strategic planning only."
+      }
+    ],
+    "public_presentation": {
+      "on_portfolio_website": false,
+      "strategic_value": "Major science museum (founded 1904, Cranbrook) strategic planning demonstrates capability with prestigious, established institutions. Portfolio value significant.",
+      "demonstrates": [
+        "Strategic planning methodology",
+        "Major museum experience",
+        "Science museum expertise",
+        "Stakeholder engagement",
+        "Board facilitation",
+        "Capital campaign preparation",
+        "New director transition support",
+        "STEAM education planning"
+      ]
+    },
+    "ai_training_quality": {
+      "complete_data": true,
+      "budget_extracted": true,
+      "outcome_verified": false,
+      "suitable_for_ml": true,
+      "confidence_score": 0.95,
+      "notes": "EXCELLENT data: Complete RFP + Proposal + Budget spreadsheet. Fast decision timeline (18 days). Clear scope. Prestigious client. Outcome pending but strong success indicators."
+    },
+    "demo_ready": {
+      "can_demonstrate": true,
+      "use_for_pitch": true,
+      "client_permission": "pending",
+      "portfolio_showcase": false
+    },
+    "tags": [
+      "strategic_plan",
+      "science_museum",
+      "michigan",
+      "cranbrook",
+      "2027_2029",
+      "proposal_stage",
+      "rfp_response",
+      "major_institution",
+      "96k_fee",
+      "steam_education",
+      "fast_decision_18_days",
+      "new_director_transition",
+      "capital_campaign"
+    ],
+    "notes": "Cranbrook Institute of Science Strategic Plan 2027-2029. FASTEST RFP CYCLE IN DATABASE: 18 days (Nov 3 RFP \u2192 Nov 14 deadline \u2192 Nov 19 award \u2192 Nov 21 contract). $96,200 fee for 9-month, 6-phase strategic planning (Jan-Sep 2026). Prestigious client: Founded 1904, part of Cranbrook Educational Community. NEW DIRECTOR after 30 years = modernization opportunity. Lucy Hale (Susan Flint Cooper Director) leading. 5 strategic focus areas: Marketing/Audience, Fundraising, Education/STEAM, Facilities, Board/CEC alignment. Preparing for capital and endowment campaign. Board of Governors engagement throughout. Payment: 50% at signing, 50% at completion. References provided: Elliott Cheu (ANRM Arizona), Mayor Copeland (McDonough), Jon-Paul Dyson (Strong Museum). Fast timeline indicates Board pre-approval and budget committed. Strong success probability. Proposal submitted Nov 13, 2025. Outcome pending Nov 19 decision."
+  },
+  {
+    "project_id": "discovery-center-nature-play-2020",
+    "project_name": "Discovery Center at Murfree Spring - Nature Play Strategic Plan",
+    "date_info": {
+      "date_created": "2020",
+      "date_delivered": "2020",
+      "date_added_to_database": "2026-01-17",
+      "last_updated": "2026-01-17"
+    },
+    "client": {
+      "name": "Discovery Center",
+      "location": {
+        "city": "Murfreesboro",
+        "state": "Tennessee",
+        "country": "USA",
+        "metro_area": "Nashville metro area"
+      },
+      "type": "children_museum",
+      "size_sqft": 30000,
+      "annual_visitors": 128000,
+      "annual_budget": null,
+      "population": null,
+      "established_year": 1989,
+      "description": "30,000 square feet post-2007 expansion (18,000 prior). Existing children's science museum with unused back area for outdoor nature playground."
+    },
+    "demographics": {
+      "city_population": null,
+      "county_population": null,
+      "metro_area": "Nashville metropolitan area",
+      "median_income": null,
+      "tourism_annual_visitors": null,
+      "tourism_notes": "Part of Nashville metro tourism market",
+      "source": "pdf_content"
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "name": null,
+        "title": "Director of Development",
+        "role_type": "director_of_development",
+        "authority_level": "coordinator",
+        "notes": "CRITICAL RED FLAG: Director of Development leading instead of ED/Board - pattern almost always fails"
+      },
+      "decision_speed_indicator": {
+        "first_meeting_duration_minutes": null,
+        "decision_timeline": "never_decided",
+        "fast_decision": false,
+        "consensus_required": true,
+        "bureaucratic_layers": "moderate",
+        "notes": "No decision made after comprehensive 86-page strategic plan delivered"
+      },
+      "red_flags": [
+        "director_of_development_leading",
+        "no_clear_authority",
+        "no_funding_source"
+      ]
+    },
+    "client_screening": {
+      "client_qualified": false,
+      "screened_out": true,
+      "screened_out_reason": "Director of Development led (almost always difficult per Mark), no clear funding commitment, donor 'contact' not actual commitment, no follow-up after submission - classic failure pattern",
+      "if_not_qualified": {
+        "scheme_type": null,
+        "red_flags_identified": [
+          "director_of_development_leading",
+          "no_clear_funding_commitment",
+          "donor_contact_not_commitment",
+          "no_follow_up"
+        ],
+        "museums_101_sent": false,
+        "outcome": "client_disappeared"
+      }
+    },
+    "lead_source": {
+      "source_type": "direct_contact",
+      "if_rfp": null
+    },
+    "documents": [
+      {
+        "document_id": "discovery-center-strategic-plan-v1",
+        "document_type": "strategic_plan",
+        "file_path": "/mnt/user-data/uploads/DiscoveryCenter-NaturePlayStrategicPlanV1.pdf",
+        "page_count": 86,
+        "date_created": "2020",
+        "date_delivered": "2020",
+        "phase": "proposal"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "Strategic plan for outdoor nature play science playground",
+      "project_scale": "single_building",
+      "indoor_outdoor": "outdoor",
+      "space_description": {
+        "total_sqft": 30000,
+        "project_sqft": null,
+        "sqft_source": "pdf_content",
+        "sqft_confidence": "high",
+        "floors_levels": null,
+        "building_type": "Outdoor science playground addition to existing 30K sqft children's museum",
+        "historic_designation": false,
+        "location_context": "Unused back area of existing children's science museum",
+        "features": [],
+        "description": "Museum is 30,000 sqft post-2007 expansion (18,000 prior to expansion). Project focuses on outdoor addition."
+      },
+      "focus_areas": [
+        "Nature play",
+        "Science playground",
+        "Outdoor education",
+        "Wetlands interpretation",
+        "STEAM education",
+        "Environmental education"
+      ],
+      "themes_topics": [
+        "Nature exploration",
+        "Scientific inquiry",
+        "Environmental education",
+        "Outdoor learning",
+        "Wetlands ecology"
+      ],
+      "target_audience": {
+        "age_range": "Children and families",
+        "demographics": [
+          "Murfreesboro families",
+          "School groups",
+          "Nashville metro visitors"
+        ],
+        "annual_visitor_target": null
+      }
+    },
+    "methodology": {
+      "includes_methodology": true,
+      "planning_framework": [
+        "User-centered design",
+        "Strategic planning",
+        "Evaluation framework"
+      ],
+      "research_methods": [
+        {
+          "method": "persona_development",
+          "count": 7,
+          "description": "7 detailed personas created"
+        },
+        {
+          "method": "empathy_mapping",
+          "description": "Empathy maps for user understanding"
+        },
+        {
+          "method": "journey_mapping",
+          "description": "User journey maps created"
+        },
+        {
+          "method": "service_blueprint",
+          "description": "Service blueprints developed"
+        },
+        {
+          "method": "stakeholder_analysis",
+          "description": "Stakeholder analysis conducted"
+        }
+      ],
+      "methodology_documented": {
+        "codified": true,
+        "transferable": true,
+        "personal_vs_systematic": "systematic",
+        "framework_name": "Comprehensive strategic planning with personas, empathy maps, journey maps, and evaluation framework",
+        "replicable_by_others": true
+      }
+    },
+    "exhibit_components": {
+      "technology": [
+        {
+          "type": "Nature Pods",
+          "description": "3 solar-powered pop-up museums for outdoor nature interpretation",
+          "cost_estimate": 330000,
+          "quantity": 3
+        },
+        {
+          "type": "Smartphone app",
+          "description": "Mobile application for visitor engagement and wayfinding"
+        }
+      ]
+    },
+    "exhibit_inventory": {
+      "exhibit_count": 1,
+      "interactive_count": 1,
+      "technology_count": 2,
+      "static_display_count": 0,
+      "exhibits_list": [
+        {
+          "name": "Nature Pods",
+          "type": "interactive",
+          "sqft": null,
+          "cost": 330000
+        },
+        {
+          "name": "Smartphone App",
+          "type": "technology",
+          "sqft": null,
+          "cost": null
+        }
+      ]
+    },
+    "budget": {
+      "has_detailed_budget": true,
+      "total": 1021000,
+      "currency": "USD",
+      "breakdown_by_year": [
+        {
+          "year": 1,
+          "amount": 60000,
+          "phase": "Initial planning and design",
+          "percentage": 5.9
+        },
+        {
+          "year": 2,
+          "amount": 629000,
+          "phase": "Major infrastructure - Nature Pods and construction",
+          "percentage": 61.6
+        },
+        {
+          "year": 3,
+          "amount": 44000,
+          "phase": "Continuation and programming",
+          "percentage": 4.3
+        },
+        {
+          "year": 4,
+          "amount": 127000,
+          "phase": "Development phase 2",
+          "percentage": 12.4
+        },
+        {
+          "year": 5,
+          "amount": 236000,
+          "phase": "Expansion and completion",
+          "percentage": 23.1
+        },
+        {
+          "year": 6,
+          "amount": 125000,
+          "phase": "Final completion",
+          "percentage": 12.2
+        }
+      ],
+      "breakdown_by_category": [
+        {
+          "category": "Nature Pods (3 solar-powered pop-up museums)",
+          "amount": 330000,
+          "percentage": 32.3,
+          "description": "Major technology investment for outdoor interpretation"
+        }
+      ],
+      "budget_realism_check": {
+        "scope_vs_budget": "realistic",
+        "red_flag": false,
+        "notes": "$1,021,000 over 6 years for outdoor science playground - appropriately phased with largest investment (62%) in year 2 for infrastructure. Budget is realistic for scope."
+      }
+    },
+    "timeline": {
+      "has_detailed_timeline": true,
+      "duration_months": 72,
+      "phases": [
+        {
+          "phase": "6-year phased implementation",
+          "deliverables": [
+            "Strategic plan with detailed timeline and evaluation framework"
+          ],
+          "duration_months": 72
+        }
+      ]
+    },
+    "evaluation_plan": {
+      "has_evaluation": true,
+      "front_end_evaluation": "Included in methodology",
+      "formative_evaluation": "Included in methodology",
+      "summative_evaluation": "Included in methodology",
+      "methods": [
+        "Front-end evaluation",
+        "Formative evaluation",
+        "Summative evaluation",
+        "Remedial evaluation"
+      ]
+    },
+    "team": {
+      "lead": "Museum Planning LLC",
+      "project_manager": "Mark Walhimer"
+    },
+    "project_financials": {
+      "your_bid_amount": null,
+      "actual_value_estimate": null,
+      "strategic_underbid": false,
+      "payment_received": null,
+      "payment_status": "paid_in_full",
+      "hourly_rate_used": null,
+      "total_project_budget": 1021000,
+      "budget_realism": "realistic",
+      "scope_vs_budget_mismatch": false,
+      "cost_per_sqft": {
+        "calculated": false,
+        "value": null,
+        "based_on": "Cannot calculate - outdoor addition to existing 30K sqft facility, project sqft not specified",
+        "confidence": "cannot_calculate"
+      },
+      "acquisition_method": "direct_contact",
+      "notes": "Paid project but fee amount not disclosed in conversation. Total project budget $1,021,000."
+    },
+    "client_financial_profile": {
+      "total_assets": null,
+      "buildings_owned": 1,
+      "proposed_budget": 1021000,
+      "budget_red_flag": false,
+      "pattern": "appropriate_budget",
+      "notes": "Budget appears appropriate for scope, problem was lack of funding commitment not budget amount"
+    },
+    "project_viability": {
+      "success_probability": "low",
+      "external_pressure": {
+        "has_external_pressure": false,
+        "pressure_types": [],
+        "deadline_date": null,
+        "description": "No political deadline, no grant deadline, no external forcing function - project could drag indefinitely"
+      },
+      "funding_status": {
+        "status": "wishful_thinking",
+        "source": "Donor 'contact' (not commitment)",
+        "amount_secured": 0,
+        "amount_needed": 1021000,
+        "notes": "Director of Development had donor 'contact' interested in funding - RED FLAG: contact \u2260 commitment. No actual funding secured."
+      },
+      "political_context": {
+        "political_champion": null,
+        "community_alignment": "unknown",
+        "institutional_stability": "stable"
+      }
+    },
+    "workforce_development_project": {
+      "is_workforce_development": false,
+      "notes": "Outdoor nature play focus, not interactive STEAM for economic development"
+    },
+    "educational_integration": {
+      "required_for_success": false,
+      "school_district_partnership": null,
+      "curriculum_alignment": null,
+      "steam_focus": true,
+      "age_groups": [
+        "children",
+        "families"
+      ]
+    },
+    "project_outcome": {
+      "status": "proposal_submitted_no_response",
+      "lifecycle_phase": "proposal",
+      "why_failed": [
+        "director_of_development_leading",
+        "no_external_pressure",
+        "no_clear_funding_commitment",
+        "donor_contact_not_actual_pledge",
+        "no_follow_up_after_submission",
+        "director_of_development_pattern_almost_always_fails"
+      ],
+      "lessons_learned": {
+        "what_didnt_work": [
+          "Director of Development as project lead (Mark: 'almost always difficult')",
+          "Donor 'contact' vs actual funding commitment - huge difference",
+          "No external pressure to force decision (no deadline, no political champion)",
+          "Projects without forcing functions often die even with good plans",
+          "Comprehensive 86-page strategic plan doesn't matter if wrong decision maker"
+        ],
+        "replicable_model": "NEGATIVE pattern to avoid",
+        "template_value": "Excellent example of what NOT to do - shows importance of decision maker type and funding commitment vs hoping"
+      }
+    },
+    "follow_up_strategy": {
+      "worth_following_up": false,
+      "avoid_contacting": [
+        {
+          "name": "Director of Development",
+          "reason": "Never heard back after comprehensive strategic plan submission, no funding commitment materialized, pattern indicates unlikely to close"
+        }
+      ]
+    },
+    "comparable_projects": [
+      {
+        "project_id": "mcdonough-copolk",
+        "similarity": "Outdoor/interactive components, STEAM education focus, children/families audience",
+        "comparison_notes": "Discovery Center FAILED with Director of Development and no funding vs C.O. Polk SUCCEEDED with City Manager and appropriated SPLOST funds - demonstrates critical importance of decision maker type and funding status"
+      }
+    ],
+    "public_presentation": {
+      "on_portfolio_website": false,
+      "strategic_value": "Demonstrates comprehensive strategic planning methodology with personas, journey maps, evaluation framework - excellent process example even though project failed"
+    },
+    "ai_training_quality": {
+      "complete_data": true,
+      "budget_extracted": true,
+      "outcome_verified": true,
+      "suitable_for_ml": true,
+      "confidence_score": 0.95,
+      "notes": "EXCELLENT training example - clear failure pattern with Director of Development lead, demonstrates importance of decision maker type and funding commitment"
+    },
+    "demo_ready": {
+      "can_demonstrate": true,
+      "use_for_pitch": true,
+      "client_permission": "not_needed",
+      "portfolio_showcase": false
+    },
+    "automation_potential": {
+      "manual_hours_without_ai": null,
+      "automated_hours_with_ai": null,
+      "cost_reduction_percent": null,
+      "demonstrates_roi": false
+    },
+    "tags": [
+      "strategic_plan",
+      "outdoor_education",
+      "nature_play",
+      "science_playground",
+      "steam_education",
+      "failed_project",
+      "director_of_development_red_flag",
+      "tennessee",
+      "children_museum",
+      "comprehensive_methodology"
+    ],
+    "notes": "Classic failure pattern: Director of Development leading (not ED/Board), donor 'contact' not actual commitment, no external pressure, no follow-up after expensive 86-page strategic plan delivered. Mark's lesson: 'Almost always difficult' when Development Director leads instead of ED/Board with authority. Project had EXCELLENT methodology (7 personas, empathy maps, journey maps, service blueprints, evaluation framework) but wrong decision maker doomed it from start. Budget was realistic ($1M over 6 years, appropriately phased) - problem was not budget but lack of funding commitment and wrong authority structure. Perfect negative example showing that comprehensive planning doesn't overcome structural problems with client authority and funding status."
+  },
+  {
+    "project_id": "howard-world-wildlife-museum-2024",
+    "project_name": "Howard World Wildlife Museum (Robert Howard Museum)",
+    "date_info": {
+      "date_created": "2024-03-21",
+      "date_delivered": "Proposal stage - declined",
+      "date_added_to_database": "2026-01-17",
+      "last_updated": "2026-01-17"
+    },
+    "client": {
+      "name": "Howard World Wildlife Museum / Robert Howard Museum",
+      "location": {
+        "city": "Indian Wells / Riverside County",
+        "state": "California",
+        "country": "USA",
+        "address": "74900 US Highway 111, Suite 120, Indian Wells, CA 92210"
+      },
+      "type": "private_collector",
+      "description": "Robert Howard's private taxidermy collection - 10,000 pieces of taxidermy and weaponry spanning 6 decades. Nonprofit organization formed."
+    },
+    "decision_makers": {
+      "primary_contact": {
+        "name": "Cindy Finerty / Rod Smith, CAGA",
+        "title": "Board representatives",
+        "role_type": "private_collector",
+        "authority_level": "unclear"
+      },
+      "red_flags": [
+        "private_collector",
+        "family_board_suspected",
+        "illegal_specimens",
+        "refused_curriculum_integration"
+      ]
+    },
+    "client_screening": {
+      "client_qualified": false,
+      "screened_out": true,
+      "screened_out_reason": "CRITICAL RED FLAGS: (1) Private taxidermy collection with suspected illegal/endangered species specimens, (2) Family board structure = likely tax shelter, (3) Client refused educational curriculum integration requirement, (4) Legal liability too high, (5) Ethical concerns with specimen legality",
+      "if_not_qualified": {
+        "scheme_type": "tax_shelter",
+        "red_flags_identified": [
+          "private_taxidermy_collection_10000_pieces",
+          "illegal_endangered_species_suspected",
+          "family_board_structure",
+          "refused_school_curriculum_integration",
+          "legal_liability_exposure",
+          "weaponry_collection_included"
+        ],
+        "museums_101_sent": true,
+        "museums_101_acknowledged": false,
+        "outcome": "project_declined"
+      },
+      "tax_shelter_indicators": {
+        "collector_type": "private_taxidermy",
+        "family_board_suspected": true,
+        "attorney_intermediary": true,
+        "ownership_misunderstanding": true,
+        "believes_still_owns": true,
+        "notes": "10,000 piece collection over 6 decades. Nonprofit formed but likely family controlled."
+      },
+      "ethical_legal_issues": {
+        "concerns_identified": true,
+        "concerns_list": [
+          "illegal_specimens",
+          "endangered_species",
+          "legal_liability",
+          "educational_mismatch",
+          "refused_curriculum_requirement"
+        ],
+        "project_declined": true,
+        "decline_reason": "DEALBREAKERS: (1) Suspected illegal/endangered specimens create legal liability, (2) Client refused mandatory school curriculum integration, (3) Family board = tax shelter scheme, (4) Professional/ethical integrity conflict"
+      }
+    },
+    "lead_source": {
+      "source_type": "direct_contact"
+    },
+    "documents": [
+      {
+        "document_id": "howard-museum-plan-v3",
+        "document_type": "master_plan",
+        "file_path": "/home/claude/Howard_Museum.pdf",
+        "page_count": null,
+        "phase": "proposal"
+      },
+      {
+        "document_id": "howard-proposal-v3-2024",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/Howard World Wildlife Museum v3.pdf",
+        "page_count": 8,
+        "date_created": "2024-03-21",
+        "phase": "proposal",
+        "notes": "Proposal letter and contract agreement - v3 indicates multiple revisions"
+      },
+      {
+        "document_id": "howard-budget-spreadsheet",
+        "document_type": "rfp_response",
+        "file_path": "/tmp/Robert_Howard_Museum.xlsx",
+        "date_created": "2024-03-22",
+        "phase": "proposal",
+        "notes": "Budget: $156K \u2192 $110K with $46K discount"
+      }
+    ],
+    "scope": {
+      "primary_deliverable": "Master plan for private taxidermy museum",
+      "project_scale": "single_building",
+      "space_description": {
+        "description": "Museum designed around 7 continents showcasing 10,000 pieces of taxidermy and weaponry. Baobab tree entrance ('Tree of Life'), continental showcases, interactive exhibits."
+      },
+      "focus_areas": [
+        "Wildlife conservation (claimed)",
+        "Natural history",
+        "Private taxidermy collection",
+        "Educational journey (claimed)",
+        "Seven continents layout",
+        "STEM activities (claimed)"
+      ],
+      "themes_topics": [
+        "Biodiversity",
+        "Global ecosystems",
+        "Wildlife conservation",
+        "Tree of Life concept",
+        "Continental fauna and flora"
+      ]
+    },
+    "methodology": {
+      "includes_methodology": true,
+      "planning_framework": [
+        "Institutional assessment",
+        "Audience assessment",
+        "Strategic planning",
+        "Business planning",
+        "Schematic exhibition design"
+      ]
+    },
+    "exhibit_spaces": {
+      "zones": [
+        {
+          "zone_name": "Baobab Tree Entrance",
+          "type": "orientation",
+          "description": "Tree of Life entrance experience"
+        },
+        {
+          "zone_name": "Seven Continents Areas",
+          "type": "exhibition",
+          "features": [
+            "Vibrant murals",
+            "Lifelike dioramas",
+            "Continental fauna/flora"
+          ]
+        },
+        {
+          "zone_name": "Interactive Exhibits",
+          "type": "hands-on",
+          "description": "Designed for children, hands-on learning"
+        }
+      ],
+      "design_features": [
+        "Digital displays",
+        "Wayfinding systems",
+        "STEM activities",
+        "School field trip programming"
+      ]
+    },
+    "budget": {
+      "total": 110000,
+      "currency": "USD",
+      "breakdown_by_category": [
+        {
+          "category": "Professional services",
+          "amount": 122000,
+          "description": "610 hours at $200/hour"
+        },
+        {
+          "category": "Contractors",
+          "amount": 34000,
+          "description": "Renderings, floor plans, graphics"
+        },
+        {
+          "category": "Travel",
+          "amount": 10600,
+          "description": "6 trips, 14 days on-site"
+        },
+        {
+          "category": "Discount",
+          "amount": -46000,
+          "description": "Discount from $156K to $110K"
+        }
+      ],
+      "budget_realism_check": {
+        "scope_vs_budget": "realistic",
+        "red_flag": false,
+        "notes": "$110K for comprehensive master plan with 10,000 piece collection is realistic IF project were viable. Problem is legal/ethical issues, not budget."
+      }
+    },
+    "project_financials": {
+      "your_bid_amount": 110000,
+      "actual_value_estimate": 156000,
+      "strategic_underbid": false,
+      "underbid_rationale": "Standard discount offered, not strategic underbid",
+      "payment_received": 0,
+      "payment_status": "unpaid",
+      "hourly_rate_used": 200,
+      "total_project_budget": null,
+      "budget_realism": "realistic",
+      "cost_per_sqft": {
+        "calculated": false,
+        "confidence": "cannot_calculate"
+      },
+      "acquisition_method": "direct_contact",
+      "notes": "Budget: $156K original \u2192 $110K with discount. $200/hour rate (higher than typical $125). 610 hours planned. Project DECLINED due to legal/ethical concerns despite budget adequacy."
+    },
+    "client_financial_profile": {
+      "total_assets": null,
+      "buildings_owned": null,
+      "proposed_budget": 110000,
+      "budget_red_flag": false,
+      "pattern": "appropriate_budget",
+      "notes": "Budget adequate. Problem is NOT money - problem is legal liability and ethical concerns with collection."
+    },
+    "project_viability": {
+      "success_probability": "very_low",
+      "external_pressure": {
+        "has_external_pressure": false,
+        "notes": "No external forcing function, private vanity project"
+      },
+      "funding_status": {
+        "status": "committed",
+        "notes": "Collector has money but project not viable due to legal/ethical issues"
+      },
+      "political_context": {
+        "notes": "Private collection, no political context"
+      }
+    },
+    "workforce_development_project": {
+      "is_workforce_development": false
+    },
+    "educational_integration": {
+      "required_for_success": true,
+      "school_district_partnership": false,
+      "curriculum_alignment": false,
+      "client_willing": false,
+      "client_refused": true,
+      "notes": "CRITICAL FAILURE POINT: Mark requires school curriculum integration for educational museum projects. Client REFUSED this requirement. Instant dealbreaker."
+    },
+    "project_outcome": {
+      "status": "declined_by_consultant",
+      "lifecycle_phase": "proposal",
+      "why_failed": [
+        "illegal_endangered_species_specimens",
+        "client_refused_curriculum_integration_requirement",
+        "family_board_tax_shelter_structure",
+        "legal_liability_too_high",
+        "ethical_concerns_specimen_legality",
+        "professional_integrity_conflict"
+      ],
+      "lessons_learned": {
+        "what_didnt_work": [
+          "Private taxidermy collections almost ALWAYS have illegal/endangered specimens",
+          "When client refuses curriculum integration = instant decline (non-negotiable requirement)",
+          "Family board + private collection = tax shelter scheme",
+          "Legal liability from illegal specimens NOT worth any fee amount",
+          "10,000 pieces over 6 decades = high probability of illegal specimens",
+          "Museums 101 sent but client didn't acknowledge = warning sign",
+          "Weaponry collection adds additional legal complexity"
+        ],
+        "would_do_differently": [
+          "Screen out private taxidermy collectors earlier in process",
+          "Make curriculum integration requirement clear in first conversation",
+          "Ask about specimen documentation/permits upfront",
+          "Decline before investing in proposal/budget"
+        ],
+        "replicable_model": "NEGATIVE screening pattern: Private collector + Taxidermy + Family board + Refuses curriculum = DECLINE IMMEDIATELY",
+        "template_value": "Perfect example of when professional/ethical standards require project decline regardless of budget adequacy"
+      }
+    },
+    "follow_up_strategy": {
+      "worth_following_up": false,
+      "notes": "Project declined due to legal/ethical concerns. No follow-up."
+    },
+    "comparable_projects": [
+      {
+        "project_id": "nature-conservation-cabela",
+        "similarity": "Both involve collections/specimens, both declined for integrity reasons",
+        "comparison_notes": "Cabela declined for impossible positioning, Howard declined for legal liability"
+      }
+    ],
+    "public_presentation": {
+      "on_portfolio_website": false,
+      "strategic_value": "None - project declined",
+      "demonstrates": [
+        "Ethical screening standards",
+        "Professional integrity",
+        "Legal risk assessment"
+      ]
+    },
+    "ai_training_quality": {
+      "complete_data": true,
+      "budget_extracted": true,
+      "outcome_verified": true,
+      "suitable_for_ml": true,
+      "confidence_score": 0.95,
+      "notes": "EXCELLENT screening example: Shows when to decline despite adequate budget. Clear red flags: private collector + taxidermy + family board + refused curriculum = decline."
+    },
+    "demo_ready": {
+      "can_demonstrate": false,
+      "use_for_pitch": false,
+      "portfolio_showcase": false
+    },
+    "tags": [
+      "failed_project",
+      "declined_project",
+      "private_collector",
+      "taxidermy",
+      "illegal_specimens",
+      "ethical_concerns",
+      "legal_liability",
+      "refused_curriculum",
+      "tax_shelter_suspected",
+      "california",
+      "110k_budget"
+    ],
+    "notes": "Howard World Wildlife Museum - Robert Howard's 10,000 piece private taxidermy and weaponry collection spanning 6 decades. Nonprofit formed, located Indian Wells, CA (Riverside County). Proposal March 2024: $156K \u2192 $110K with discount, $200/hour rate. Museum concept: Baobab tree entrance (Tree of Life), 7 continents layout, interactive exhibits, STEM activities, school field trips. CLIENT REFUSED CURRICULUM INTEGRATION - instant dealbreaker. SUSPECTED ILLEGAL/ENDANGERED SPECIMENS in 10,000 piece collection = massive legal liability. Family board structure = likely tax shelter scheme. Museums 101 sent but not acknowledged. PROJECT DECLINED despite adequate budget ($110K) because: (1) Legal liability from suspected illegal specimens, (2) Client refused mandatory school curriculum integration requirement, (3) Family board indicates tax shelter not genuine museum, (4) Professional/ethical integrity conflict. LESSON: Private taxidermy collections + family boards + curriculum refusal = DECLINE IMMEDIATELY regardless of budget. V3 file indicates multiple proposal revisions before final decline. Perfect example of ethical screening - some projects are not worth the risk at any price."
+  }
+]
